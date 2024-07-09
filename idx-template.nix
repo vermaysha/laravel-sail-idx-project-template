@@ -6,9 +6,11 @@
     pkgs.nodejs
   ];
 
+  services.docker.enable = true;
+
   bootstrap = ''
     mkdir "$out"
     # We can now use "npm"
     npm init --yes my-boot-strap@latest "$out"
-  ''
+  '';
 }

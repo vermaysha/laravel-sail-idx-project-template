@@ -1,6 +1,6 @@
 ## Laravel + Laravel Sail Template for IDX Project
 
-<a href="https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2Fvermaysha%2Flaravel-sail-idx-project-template">
+<a href="https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2Fvermaysha%2Flaravel-sail-idx-project-template" target="_blank">
   <img
     height="32"
     alt="Export to IDX"
